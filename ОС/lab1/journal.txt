@@ -1,0 +1,4 @@
+1	Ivanov	5
+2	Petrov	4
+3	Smirnov	4
+4	Pudov	3
